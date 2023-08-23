@@ -19,7 +19,7 @@
                             "schema_description": "OIMS selfdescribing metadata schema",
                             "schema_type": "selfdescribing metadata schema",
                             "schema_version": "2.3.0.0",
-                            "schema_url": "https://github.com/GideonKruseman/OIMStest/blob/main/OIMS_base.json",
+                            "schema_url": "https://raw.githubusercontent.com/GideonKruseman/OIMStest/main/schemas/OIMS_base.json",
                             "OIMS_content_object": "MetadataMetadata",
                             "include_property": [
                                 "ALL"
@@ -35,7 +35,7 @@
                             "schema_description": "OIMS selfdescribing metadata schema",
                             "schema_type": "selfdescribing metadata schema",
                             "schema_version": "2.3.0.0",
-                            "schema_url": "https://github.com/GideonKruseman/OIMStest/blob/main/OIMS_base.json",
+                            "schema_url": "https://raw.githubusercontent.com/GideonKruseman/OIMStest/main/schemas/OIMS_base.json",
                             "OIMS_content_object": "MetadataMetadata"
                         },
                         {
@@ -43,7 +43,7 @@
                             "schema_description": "OIMS selfdescribing metadata schema",
                             "schema_type": "selfdescribing metadata schema",
                             "schema_version": "2.3.0.0",
-                            "schema_url": "https://github.com/GideonKruseman/OIMStest/blob/main/OIMS_base.json",
+                            "schema_url": "https://raw.githubusercontent.com/GideonKruseman/OIMStest/main/schemas/OIMS_base.json",
                             "OIMS_content_object": "OIMS_Structure_Metadata",
                             "include_property": [
                                 "ALL"
@@ -59,7 +59,7 @@
                             "schema_description": "OIMS selfdescribing metadata schema",
                             "schema_type": "selfdescribing metadata schema",
                             "schema_version": "2.3.0.0",
-                            "schema_url": "https://github.com/GideonKruseman/OIMStest/blob/main/OIMS_base.json",
+                            "schema_url": "https://raw.githubusercontent.com/GideonKruseman/OIMStest/main/schemas/OIMS_base.json",
                             "OIMS_content_object": "MetadataMetadata"
                         },
                         {
@@ -67,7 +67,7 @@
                             "schema_description": "OIMS selfdescribing metadata schema",
                             "schema_type": "selfdescribing metadata schema",
                             "schema_version": "2.3.0.0",
-                            "schema_url": "https://github.com/GideonKruseman/OIMStest/blob/main/OIMS_base.json",
+                            "schema_url": "https://raw.githubusercontent.com/GideonKruseman/OIMStest/main/schemas/OIMS_base.json",
                             "OIMS_content_object": "OIMS_Header_Metadata",
                             "include_property": [
                                 "ALL"
@@ -248,6 +248,56 @@
                                         "ontology_term_quality": "Exact"
                                     }
                                 ]
+                            },
+                            {
+                                "\\": "<%GTREE 2.4.1 metadata%>",
+                                "attribute_name": "metadata",
+                                "attribute_description": "actual metadata",
+                                "data_type": "compound",
+                                "requirement_level": "required",
+                                "data_type_class": "compound",
+                                "multiple": true
+                            },
+                            {
+                                "\\": "<%GTREE 2.4.2 persistent_entity_id%>",
+                                "attribute_name": "persistent_entity_id",
+                                "attribute_description": "an identifier for the entity being drescribed by the metadata of thius section",
+                                "data_type": "compound",
+                                "requirement_level": "required, if applicable",
+                                "data_type_class": "compound",
+                                "multiple": true,
+                                "attribute_value_elements": [
+                                    "entity_label",
+                                    "persistent_entity_id_schema_name",
+                                    "persistent_entity_id_identifier"
+                                ]
+                            },
+                            {
+                                "\\": "<%GTREE 2.4.2.1 entity_label%>",
+                                "attribute_name": "entity_label",
+                                "attribute_description": "short human intelligible description of the entity",
+                                "data_type": "text",
+                                "requirement_level": "optional",
+                                "data_type_class": "primitive",
+                                "multiple": false
+                            },
+                            {
+                                "\\": "<%GTREE 2.4.2.2 persistent_entity_id_schema_name%>",
+                                "attribute_name": "persistent_entity_id_schema_name",
+                                "attribute_description": "persistent identifier for the entity, typically <DOI,Handle,FMI_ID,URI>",
+                                "data_type": "text",
+                                "requirement_level": "required",
+                                "data_type_class": "primitive",
+                                "multiple": false
+                            },
+                            {
+                                "\\": "<%GTREE 2.4.2.3 persistent_entity_id_identifier%>",
+                                "attribute_name": "persistent_entity_id_identifier",
+                                "attribute_description": "actual persistent identifier of the entity",
+                                "data_type": "text",
+                                "requirement_level": "required",
+                                "data_type_class": "primitive",
+                                "multiple": false
                             },
                             {
                                 "\\": [
