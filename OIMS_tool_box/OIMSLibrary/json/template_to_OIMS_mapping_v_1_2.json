@@ -1,0 +1,16 @@
+{
+    "mapping": [
+        {
+            "from": "DescriptiveMetadataDataSet.Title",
+            "to": "OIMS.OIMS_header.file_descriptors.metadata_name",
+            "requirement_level": "required",
+            "prefix_string":"metadata of dataset titled: ",
+            "suffix_string":""
+        },
+        {
+            "from": "OtherSection.Subsection.Subsubsection",
+            "to": "output.subsection.subsubsection",
+            "requirement_level": "optional"
+        }
+    ]
+}
