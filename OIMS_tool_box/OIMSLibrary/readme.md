@@ -1,5 +1,6 @@
 Foresight Technical Report
-<span style="color: blue;">Draft (incomplete</span>
+
+<span style="color: blue;">Draft (incomplete)</span>
 
 
 
