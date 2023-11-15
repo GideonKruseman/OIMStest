@@ -1,7 +1,6 @@
 Foresight Technical Report
 
-<span style="color: blue;">Draft (incomplete)</span>
-
+##**Incomplete DRAFT!!**
 
 
 <img src="media/Initiative%20-%20Foresight-02.png" title="" alt="" width="651">
