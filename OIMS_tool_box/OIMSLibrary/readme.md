@@ -1,6 +1,6 @@
 Foresight Technical Report
 
-##**Incomplete DRAFT!!**
+## **Incomplete DRAFT!!**
 
 
 <img src="media/Initiative%20-%20Foresight-02.png" title="" alt="" width="651">
