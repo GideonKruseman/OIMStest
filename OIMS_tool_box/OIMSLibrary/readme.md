@@ -1,7 +1,7 @@
 Foresight Technical Report
 
 ## **Incomplete DRAFT!!**
-Please send any suggested text additions, su=gestions and edits to <g.kruseman@cgiar.org>
+Please send any text additions, sugestions and edit proposals to <g.kruseman@cgiar.org>
 
 <img src="media/Initiative%20-%20Foresight-02.png" title="" alt="" width="651">
 
