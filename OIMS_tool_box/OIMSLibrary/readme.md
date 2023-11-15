@@ -3,7 +3,8 @@ Foresight Technical Report
 ## **Incomplete DRAFT!!**
 Please send any text additions, sugestions and edit proposals to <g.kruseman@cgiar.org>
 
-<img src="media/Initiative%20-%20Foresight-02.png" title="" alt="" width="651">
+![Initiative - Foresight-02](https://github.com/GideonKruseman/OIMStest/assets/14908724/3dababca-13c9-48f8-8c52-980b9f0044b5)
+
 
 # OIMS Tool-box: user guide version 1.0.0
 
@@ -11,7 +12,8 @@ Gideon Kruseman
 
 November 2023
 
-![Foresight and Metrics](https://github.com/ForesightAndMetrics/ForesightAndMetrics/blob/main/CGIAR%20Initiative%20-%20Foresight%20and%20Metrics-03.jpg)
+![hero](https://github.com/GideonKruseman/OIMStest/assets/14908724/09a4baec-5dbf-4faa-af06-f4f5c93e87cc)
+
 
   -------------- -------------- -------------- -------------- --------------
 **Gideon Kruseman, WP3 leader Foresight Initiative**   |  <g.kruseman@cgiar.org>
@@ -397,4 +399,5 @@ Wilkinson 2016
  This work is licensed under a Creative Commons Attribution-Noncommercial
  4.0 International Licence (CC BYNC 4.0).
 
-<img src="media/Initiative%20-%20Foresight-02.png" title="" alt="" width="651">
+![Initiative - Foresight-02](https://github.com/GideonKruseman/OIMStest/assets/14908724/3dababca-13c9-48f8-8c52-980b9f0044b5)
+
