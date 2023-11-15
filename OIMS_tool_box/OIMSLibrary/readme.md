@@ -11,7 +11,7 @@ Gideon Kruseman
 
 November 2023
 
-![](media/hero.png)
+![Foresight and Metrics](https://github.com/ForesightAndMetrics/ForesightAndMetrics/blob/main/CGIAR%20Initiative%20-%20Foresight%20and%20Metrics-03.jpg)
 
   -------------- -------------- -------------- -------------- --------------
 **Gideon Kruseman, WP3 leader Foresight Initiative**   |  <g.kruseman@cgiar.org>
